@@ -8,11 +8,17 @@ Handwritten number recognition is a classic problem in the field of machine lear
 To get started with the project, follow these steps:
 
 Clone the repository: git clone https://github.com/Thezone-1/Number_Recognizer.git
-Navigate to the project directory: cd Number_Recognizer\n
+
+Navigate to the project directory: cd Number_Recognizer
+
 Create a virtual environment: python -m venv venv
+
 Activate the virtual environment:
+
 On Windows: venv\Scripts\activate
+
 On macOS and Linux: source venv/bin/activate
+
 Install the required dependencies
 
 # Evaluation
