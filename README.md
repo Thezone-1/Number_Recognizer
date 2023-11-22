@@ -6,18 +6,18 @@ Handwritten number recognition is a classic problem in the field of machine lear
 
 # Installation
 To get started with the project, follow these steps:
+```
+git clone 'link'
+````
+Navigate to the project directory: ``` cd Number_Recognizer ```
 
-Clone the repository: git clone 'link'
-
-Navigate to the project directory: cd Number_Recognizer
-
-Create a virtual environment: python -m venv venv
+Create a virtual environment: ``` python -m venv venv ```
 
 Activate the virtual environment:
-
+```
 On Windows: venv\Scripts\activate
-
-On macOS and Linux: source venv/bin/activate
+```
+On macOS and Linux: ``` source venv/bin/activate ```
 
 Install the required dependencies
 
