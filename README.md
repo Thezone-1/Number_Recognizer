@@ -7,7 +7,7 @@ Handwritten number recognition is a classic problem in the field of machine lear
 # Installation
 To get started with the project, follow these steps:
 
-Clone the repository: git clone https://github.com/Thezone-1/Number_Recognizer.git
+Clone the repository: git clone 'link'
 
 Navigate to the project directory: cd Number_Recognizer
 
